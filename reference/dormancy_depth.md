@@ -21,7 +21,7 @@ dormancy_depth(
 - dormancy_result:
 
   An object of class "dormancy" from
-  [`dormancy_detect`](dormancy_detect.md).
+  [`dormancy_detect`](https://danymukesha.github.io/dormancy/reference/dormancy_detect.md).
 
 - method:
 

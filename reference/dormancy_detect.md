@@ -114,9 +114,12 @@ The detection algorithm works by:
 
 ## See also
 
-[`dormancy_trigger`](dormancy_trigger.md) for identifying activation
-triggers, [`dormancy_depth`](dormancy_depth.md) for measuring dormancy
-depth, [`awaken`](awaken.md) for simulating pattern activation
+[`dormancy_trigger`](https://danymukesha.github.io/dormancy/reference/dormancy_trigger.md)
+for identifying activation triggers,
+[`dormancy_depth`](https://danymukesha.github.io/dormancy/reference/dormancy_depth.md)
+for measuring dormancy depth,
+[`awaken`](https://danymukesha.github.io/dormancy/reference/awaken.md)
+for simulating pattern activation
 
 ## Examples
 

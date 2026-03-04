@@ -65,15 +65,15 @@ print(result)
 
 ## Core Functions
 
-| Function                                              | Description                                      |
-|-------------------------------------------------------|--------------------------------------------------|
-| [`dormancy_detect()`](reference/dormancy_detect.md)   | Detect dormant patterns using 4 methods          |
-| [`dormancy_trigger()`](reference/dormancy_trigger.md) | Identify activation trigger conditions           |
-| [`dormancy_depth()`](reference/dormancy_depth.md)     | Measure how deeply dormant a pattern is          |
-| [`dormancy_risk()`](reference/dormancy_risk.md)       | Assess activation risk and potential impact      |
-| [`dormancy_scout()`](reference/dormancy_scout.md)     | Map data space for potential dormant regions     |
-| [`awaken()`](reference/awaken.md)                     | Simulate what happens when patterns activate     |
-| [`hibernate()`](reference/hibernate.md)               | Find patterns that have become dormant over time |
+| Function                                                                                     | Description                                      |
+|----------------------------------------------------------------------------------------------|--------------------------------------------------|
+| [`dormancy_detect()`](https://danymukesha.github.io/dormancy/reference/dormancy_detect.md)   | Detect dormant patterns using 4 methods          |
+| [`dormancy_trigger()`](https://danymukesha.github.io/dormancy/reference/dormancy_trigger.md) | Identify activation trigger conditions           |
+| [`dormancy_depth()`](https://danymukesha.github.io/dormancy/reference/dormancy_depth.md)     | Measure how deeply dormant a pattern is          |
+| [`dormancy_risk()`](https://danymukesha.github.io/dormancy/reference/dormancy_risk.md)       | Assess activation risk and potential impact      |
+| [`dormancy_scout()`](https://danymukesha.github.io/dormancy/reference/dormancy_scout.md)     | Map data space for potential dormant regions     |
+| [`awaken()`](https://danymukesha.github.io/dormancy/reference/awaken.md)                     | Simulate what happens when patterns activate     |
+| [`hibernate()`](https://danymukesha.github.io/dormancy/reference/hibernate.md)               | Find patterns that have become dormant over time |
 
 ## Detection Methods
 
@@ -176,12 +176,14 @@ If you use dormancy in your research, please cite:
 
 ## Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md)
+Contributions are welcome! Please see
+[CONTRIBUTING.md](https://danymukesha.github.io/dormancy/CONTRIBUTING.md)
 for guidelines.
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License. See
+[LICENSE](https://danymukesha.github.io/dormancy/LICENSE) for details.
 
 ## Acknowledgments
 

@@ -20,7 +20,7 @@ dormancy_trigger(
 - dormancy_result:
 
   An object of class "dormancy" from
-  [`dormancy_detect`](dormancy_detect.md).
+  [`dormancy_detect`](https://danymukesha.github.io/dormancy/reference/dormancy_detect.md).
 
 - sensitivity:
 
@@ -71,8 +71,8 @@ limited data.
 
 ## See also
 
-[`dormancy_detect`](dormancy_detect.md),
-[`dormancy_risk`](dormancy_risk.md)
+[`dormancy_detect`](https://danymukesha.github.io/dormancy/reference/dormancy_detect.md),
+[`dormancy_risk`](https://danymukesha.github.io/dormancy/reference/dormancy_risk.md)
 
 ## Examples
 

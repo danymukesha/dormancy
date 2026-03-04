@@ -2,8 +2,9 @@
 
 Analyzes time series or sequential data to identify patterns that were
 once active but have become dormant. This is the inverse problem from
-[`dormancy_detect`](dormancy_detect.md) - finding patterns that "went to
-sleep" rather than patterns that are currently dormant.
+[`dormancy_detect`](https://danymukesha.github.io/dormancy/reference/dormancy_detect.md) -
+finding patterns that "went to sleep" rather than patterns that are
+currently dormant.
 
 ## Usage
 

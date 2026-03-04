@@ -1,7 +1,8 @@
 # Scout for Dormant Pattern Regions in Data
 
 Systematically scans the data space to identify regions where dormant
-patterns might emerge. Unlike [`dormancy_detect`](dormancy_detect.md)
+patterns might emerge. Unlike
+[`dormancy_detect`](https://danymukesha.github.io/dormancy/reference/dormancy_detect.md)
 which identifies specific patterns, `dormancy_scout` maps the "terrain"
 of dormancy potential.
 

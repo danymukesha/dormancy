@@ -8,8 +8,8 @@
 
 #### Core Detection
 
-- [`dormancy_detect()`](../reference/dormancy_detect.md): Main function
-  for detecting dormant patterns with four methods:
+- [`dormancy_detect()`](https://danymukesha.github.io/dormancy/reference/dormancy_detect.md):
+  Main function for detecting dormant patterns with four methods:
   - Conditional detection: finds patterns suppressed by conditions
   - Threshold detection: finds patterns emerging at thresholds
   - Phase detection: finds patterns in specific phase regions
@@ -17,18 +17,18 @@
 
 #### Analysis Functions
 
-- [`dormancy_trigger()`](../reference/dormancy_trigger.md): Identifies
-  specific trigger conditions for activation
-- [`dormancy_depth()`](../reference/dormancy_depth.md): Measures depth
-  of dormancy (energy, stability, entropy methods)
-- [`dormancy_risk()`](../reference/dormancy_risk.md): Quantifies
-  activation risk and potential impact
-- [`dormancy_scout()`](../reference/dormancy_scout.md): Maps data space
-  for potential dormant regions
-- [`awaken()`](../reference/awaken.md): Simulates pattern activation
-  scenarios
-- [`hibernate()`](../reference/hibernate.md): Detects patterns that
-  became dormant over time
+- [`dormancy_trigger()`](https://danymukesha.github.io/dormancy/reference/dormancy_trigger.md):
+  Identifies specific trigger conditions for activation
+- [`dormancy_depth()`](https://danymukesha.github.io/dormancy/reference/dormancy_depth.md):
+  Measures depth of dormancy (energy, stability, entropy methods)
+- [`dormancy_risk()`](https://danymukesha.github.io/dormancy/reference/dormancy_risk.md):
+  Quantifies activation risk and potential impact
+- [`dormancy_scout()`](https://danymukesha.github.io/dormancy/reference/dormancy_scout.md):
+  Maps data space for potential dormant regions
+- [`awaken()`](https://danymukesha.github.io/dormancy/reference/awaken.md):
+  Simulates pattern activation scenarios
+- [`hibernate()`](https://danymukesha.github.io/dormancy/reference/hibernate.md):
+  Detects patterns that became dormant over time
 
 #### Visualization
 

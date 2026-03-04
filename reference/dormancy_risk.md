@@ -23,13 +23,13 @@ dormancy_risk(
 - dormancy_result:
 
   An object of class "dormancy" from
-  [`dormancy_detect`](dormancy_detect.md).
+  [`dormancy_detect`](https://danymukesha.github.io/dormancy/reference/dormancy_detect.md).
 
 - depth_result:
 
   Optional. An object of class "dormancy_depth" from
-  [`dormancy_depth`](dormancy_depth.md). If provided, uses depth
-  information for more accurate risk assessment.
+  [`dormancy_depth`](https://danymukesha.github.io/dormancy/reference/dormancy_depth.md).
+  If provided, uses depth information for more accurate risk assessment.
 
 - impact_weights:
 
