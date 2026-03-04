@@ -1,7 +1,5 @@
 # dormancy
 
-## Overview
-
 **dormancy** is a novel R package for detecting and analyzing *dormant
 patterns* in multivariate data. Unlike traditional pattern detection
 methods that focus on currently active relationships, dormancy
@@ -18,10 +16,12 @@ detection. The concept is inspired by:
 - **Geological phenomena**: Dormant faults that can trigger earthquakes
 - **Epidemiology**: Latent infections that activate under stress
 
-In data analysis, dormant patterns are relationships that: - Are strong
-in specific data regions but weak overall - Only emerge when certain
-thresholds are crossed - Are masked by confounding variables - Could
-trigger cascade effects when activated
+In data analysis, dormant patterns are relationships that:
+
+- Are strong in specific data regions but weak overall
+- Only emerge when certain thresholds are crossed
+- Are masked by confounding variables
+- Could trigger cascade effects when activated
 
 ## Installation
 
