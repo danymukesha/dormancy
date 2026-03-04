@@ -10,5 +10,10 @@
 "_PACKAGE"
 
 ## usethis namespace: start
+#' @importFrom grDevices heat.colors rgb
+#' @importFrom graphics abline barplot contour hist image legend lines par plot.new plot.window points text title
+#' @importFrom stats cor median na.omit quantile rnorm sd var
+#' @importFrom utils combn head
+#' @importFrom Rcpp sourceCpp
 ## usethis namespace: end
 NULL
