@@ -1,15 +1,15 @@
-# dormancy <a href="https://danymukesha.github.io/BioGA/"><img src="man/figures/logo.png" align="right" height="139" alt="BioGA website" /></a>
+# dormancy <a href="https://danymukesha.github.io/dormancy/"><img src="man/figures/logo.png" align="right" height="139" alt="dormancy website" /></a>
 
 <!-- badges: start -->
 <!--
 [![CRAN status](https://www.r-pkg.org/badges/version/dormancy)](https://CRAN.R-project.org/package=dormancy)
 [![R-CMD-check](https://github.com/danymukesha/dormancy/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/danymukesha/dormancy/actions/workflows/R-CMD-check.yaml)
 [![Codecov test coverage](https://codecov.io/gh/danymukesha/dormancy/branch/main/graph/badge.svg)](https://app.codecov.io/gh/danymukesha/dormancy?branch=main)
->
+-->
 <!-- badges: end -->
-
+<!--
 ## Overview
-
+-->
 **dormancy** is a novel R package for detecting and analyzing *dormant
 patterns* in multivariate data. Unlike traditional pattern detection methods
 that focus on currently active relationships, dormancy identifies statistical
@@ -26,6 +26,7 @@ detection. The concept is inspired by:
 - **Epidemiology**: Latent infections that activate under stress
 
 In data analysis, dormant patterns are relationships that:
+
 - Are strong in specific data regions but weak overall
 - Only emerge when certain thresholds are crossed
 - Are masked by confounding variables
@@ -182,3 +183,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 This package develops a novel statistical framework inspired by concepts from
 biology, geology, and epidemiology. The idea of dormant patterns in data
 analysis provides a new perspective on hidden relationships and latent risks.
+
