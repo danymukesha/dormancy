@@ -1,4 +1,25 @@
-url: ~
-template:
-  bootstrap: 5
+url: https://danymukesha.github.io/dormancy/
 
+template:
+    bootstrap: 5
+    light-switch: true
+    bslib:
+        primary: "#007bff"
+        secondary: "#6c757d"
+        text: "#333333"
+        background: "#f8f9fa"
+
+development:
+    mode: auto
+
+authors:
+    Dany Mukesha:
+        href: https://danymukesha.github.io/
+
+search:
+    enabled: true
+
+footer:
+    content: |
+        <p>Developed with ❤️ by <a href="https://danymukesha.github.io/">Dany Mukesha</a></p>
+        <p>For any inquiries, contact me at: <a href="mailto:danymukesha@gmail.com">danymukesha@gmail.com</a></p>

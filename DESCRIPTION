@@ -34,5 +34,6 @@ Suggests:
     covr
 LinkingTo: Rcpp
 VignetteBuilder: knitr
-URL: https://github.com/danymukesha/dormancy
+URL: https://github.com/danymukesha/dormancy, 
+    https://danymukesha.github.io/dormancy
 BugReports: https://github.com/danymukesha/dormancy/issues
