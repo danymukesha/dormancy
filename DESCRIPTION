@@ -15,7 +15,7 @@ Description: A novel framework for detecting, quantifying, and analyzing dormant
     introduces methods for quantifying dormancy depth, trigger sensitivity, and 
     awakening risk - enabling analysts to discover patterns that conventional 
     methods miss because they focus only on currently active relationships.
-License: file LICENSE
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.3
@@ -34,6 +34,6 @@ Suggests:
     covr
 LinkingTo: Rcpp
 VignetteBuilder: knitr
-URL: https://github.com/danymukesha/dormancy, 
-    https://danymukesha.github.io/dormancy
-BugReports: https://github.com/danymukesha/dormancy/issues
+URL: https://github.com/danymukesha/dormancy/, 
+    https://danymukesha.github.io/dormancy/
+BugReports: https://github.com/danymukesha/dormancy/issues/

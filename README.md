@@ -168,12 +168,12 @@ If you use dormancy in your research, please cite:
   url = {https://github.com/danymukesha/dormancy}
 }
 ```
-
+<!--
 ## Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for
+Contributions are welcome! Please see [CONTRIBUTING.md](inst/CONTRIBUTING.md) for
 guidelines.
-
+-->
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
